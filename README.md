@@ -9,7 +9,6 @@ I've noticed that using a `.md` is better than plain text, as I've used to do it
 💡 As I have more than one computer, and sometimes the same projects, why not push those notes to a kind of cloud 🤷‍♀️. Born Devnotes dashboard.
 
 ### CLI
-_check the full list of commands [here](https://github.com/edudepetris/notes-cli/blob/master/doc/commands.md#usage)_
 
 * Install 
 🍺 `$ brew install edudepetris/homebrew-brew/devnotes`
@@ -22,6 +21,8 @@ _check the full list of commands [here](https://github.com/edudepetris/notes-cli
 $ devnotes login
 $ devnotes push
 ```
+
+_check the full list of commands [here](https://github.com/edudepetris/notes-cli/blob/master/doc/commands.md#usage)_
 
 ### Dashboard
 ![devnote-app](https://user-images.githubusercontent.com/2192588/110196137-5d024480-7ea7-11eb-8b94-a4e65a6f00b6.png)
