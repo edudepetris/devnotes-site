@@ -12,7 +12,7 @@ Also, I've noticed that using it as `.md` gives me highlight code and easy to ex
 
 * Installing using brew (recommended)
 ```console
-$ brew install edudepetris/homebrew-brew/devnotes`
+$ brew install edudepetris/homebrew-brew/devnotes
 ```
 * Installing using NPM
 ```console
