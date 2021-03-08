@@ -12,21 +12,21 @@ Also, I've noticed that using it as `.md` gives me highlight code and easy to ex
 
 * Installing using brew (recommended)
 ```console
-$ brew install edudepetris/homebrew-brew/devnotes
+brew install edudepetris/homebrew-brew/devnotes
 ```
 * Installing using NPM
 ```console
-$ npm install -g devnotes
+npm install -g devnotes
 ```
 * From any project's root folder
 ```console
-$ cd devnotes.github.io/ # example using this repo.
-$ devnotes init
+cd devnotes.github.io/ # example using this repo.
+devnotes init
 ```
 * You can push your `notes.md` content to devnotes cloud (it requires [an account](#create-an-account) before)
 ```console
-$ devnotes login
-$ devnotes push
+devnotes login
+devnotes push
 ```
 
 _check the full list of commands [here](https://github.com/edudepetris/notes-cli/blob/master/doc/commands.md#usage)_
