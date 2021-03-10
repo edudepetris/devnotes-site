@@ -36,5 +36,9 @@ _check the full list of commands [here](https://github.com/edudepetris/notes-cli
 * Open the [sign up](https://devnotes-production.herokuapp.com/users/sign_up) page.
 
 ### Dasboard
-![devnote-app](https://user-images.githubusercontent.com/2192588/110196137-5d024480-7ea7-11eb-8b94-a4e65a6f00b6.png)
+|||
+|-|-|
+|![Screen Shot 2021-03-10 at 10 42 17 PM](https://user-images.githubusercontent.com/2192588/110609956-a4b00580-81f2-11eb-9538-1fc3f2c18a78.png)|![Simulator Screen Shot - iPhone 12 Pro Max - 2021-03-10 at 22 52 48](https://user-images.githubusercontent.com/2192588/110611169-d6759c00-81f3-11eb-9071-de4f7e5be06c.png)|
+
+
 
