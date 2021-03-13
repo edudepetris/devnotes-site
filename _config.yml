@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: 💻 Devnotes
 description: A way to keep your dev notes
+
+github:
+  cli_url: https://github.com/edudepetris/notes-cli
+  dashboard_url: https://github.com/edudepetris/devnotes
