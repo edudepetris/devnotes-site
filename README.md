@@ -31,7 +31,8 @@ devnotes push
 
 _check the full list of commands [here](https://github.com/edudepetris/notes-cli/blob/master/doc/commands.md#usage)_
 
-![render1615965510940](https://user-images.githubusercontent.com/2192588/111430007-a3d12380-875e-11eb-9aee-29f097eaa4a1.gif)
+![render1615967173764](https://user-images.githubusercontent.com/2192588/111432828-62db0e00-8762-11eb-9f72-832080cc8706.gif)
+
 
 ### Dasboard
 
