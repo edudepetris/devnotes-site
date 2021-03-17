@@ -4,7 +4,7 @@ I've tried Apple Notes, Google Keep, and so on, but I've noticed that keeping th
 
 Also, I've noticed that using it as `.md` gives me highlight code and easy to export as HTML if I need to read, 💯 better than plain text.
 
-💡 As I have more than one computer, and sometimes the same projects, why not push those notes to a kind of cloud 🤷‍♀️. Born Devnotes dashboard.
+💡 As I continue doing these processes manually, why not create a CLI tool that creates this structure for me 🤷‍♀️. Born Devnotes CLI
 
 💡 Sometimes I have the same project on different laptops. Why not push the "notes.md" to a kind of cloud 🤷‍♀️. Born Devnotes dashboard.
 
@@ -41,7 +41,3 @@ _check the full list of commands [here](https://github.com/edudepetris/notes-cli
 
 ![Screen Shot 2021-03-10 at 10 42 17 PM](https://user-images.githubusercontent.com/2192588/110609956-a4b00580-81f2-11eb-9538-1fc3f2c18a78.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-03-10 at 22 52 48](https://user-images.githubusercontent.com/2192588/110613625-5bfa4b80-81f6-11eb-848e-187d3471841f.png)
-
-
-
-
