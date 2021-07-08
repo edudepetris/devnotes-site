@@ -1,14 +1,21 @@
-💭 My use case: every time I start a project, I create a folder with a file `devnotes/notes.md` where I keep all daily work notes or things that I will need (credentials, remainder, chunks of code ...).
+## 💭 Use case
 
-I've tried Apple Notes, Google Keep, and so on, but I've noticed that keeping the notes along with my project (codebase), it's 💯 faster, easier to use and navigate, it's as simple as open the notes.md file with your favorite text editor.
+Every time I dive into a project, I create a folder and a file `devnotes/notes.md` at the root of the project, where I keep notes like credentials, remainder, chunks of code and more. Finally, I ignore the folder (gitignore) to avoid push it. 
 
-Also, I've noticed that using it as `.md` gives me highlight code and easy to export as HTML if I need to read, 💯 better than plain text.
+## Solution
 
-💡 As I continue doing these processes manually, why not create a CLI tool that creates this structure for me 🤷‍♀️. Born Devnotes CLI
+As I continue doing this process manually, why not create a CLI tool that creates this structure for me 🤷‍♀️. Born [Devnotes CLI](#devnotes-cli)
 
-💡 Sometimes I have the same project on different laptops. Why not push the "notes.md" to a kind of cloud 🤷‍♀️. Born Devnotes dashboard.
+Sometimes I have the same project on different laptops. Why not push the "notes.md" to a kind of cloud 🤷‍♀️. Born [Devnotes](#dasboard).
 
-### CLI
+
+## Benfits 
+I've tried Apple Notes, Google Keep, and so on, but I've noticed that keeping the notes along with my project (codebase), it's 💯 faster and easier to use, it's as simple as open the notes.md file with your text editor.
+
+Also, using it as `.md` gives me highlight code and easy to export as HTML if I need to read, 💯 better than plain text.
+
+
+# Devnotes CLI
 
 * Installing using brew (recommended)
 ```console
@@ -33,11 +40,10 @@ _check the full list of commands [here](https://github.com/edudepetris/notes-cli
 
 ![render1615968444434](https://user-images.githubusercontent.com/2192588/111435113-4096bf80-8765-11eb-852c-4d56736554e4.gif)
 
-### Dasboard
+# Dasboard
 
 #### Create an account
 
 * Open the [sign up](https://devnotes-production.herokuapp.com/users/sign_up) page.
 
 ![Screen Shot 2021-03-10 at 10 42 17 PM](https://user-images.githubusercontent.com/2192588/110609956-a4b00580-81f2-11eb-9538-1fc3f2c18a78.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-03-10 at 22 52 48](https://user-images.githubusercontent.com/2192588/110613625-5bfa4b80-81f6-11eb-848e-187d3471841f.png)
