@@ -2,14 +2,14 @@
 
 Every time I dive into a project, I create a folder and a file `devnotes/notes.md` at the root of the project, where I keep notes like credentials, remainder, chunks of code and more. Finally, I ignore the folder (gitignore) to avoid push it. 
 
-## Solution
+## 💡 Solution
 
 As I continue doing this process manually, why not create a CLI tool that creates this structure for me 🤷‍♀️. Born [Devnotes CLI](#devnotes-cli)
 
 Sometimes I have the same project on different laptops. Why not push the "notes.md" to a kind of cloud 🤷‍♀️. Born [Devnotes](#dasboard).
 
 
-## Benfits 
+## 🎉 Benfits 
 I've tried Apple Notes, Google Keep, and so on, but I've noticed that keeping the notes along with my project (codebase), it's 💯 faster and easier to use, it's as simple as open the notes.md file with your text editor.
 
 Also, using it as `.md` gives me highlight code and easy to export as HTML if I need to read, 💯 better than plain text.
@@ -41,8 +41,6 @@ _check the full list of commands [here](https://github.com/edudepetris/notes-cli
 ![render1615968444434](https://user-images.githubusercontent.com/2192588/111435113-4096bf80-8765-11eb-852c-4d56736554e4.gif)
 
 # Dasboard
-
-#### Create an account
 
 * Open the [sign up](https://devnotes-production.herokuapp.com/users/sign_up) page.
 
