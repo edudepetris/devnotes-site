@@ -9,7 +9,7 @@ As I continue doing this process manually, why not create a CLI tool that create
 Sometimes I have the same project on different laptops. Why not push the "notes.md" to a kind of cloud 🤷‍♀️. Born [Devnotes](#dasboard).
 
 
-## 🎉 Benfits 
+## 🎉 Benefits 
 I've tried Apple Notes, Google Keep, and so on, but I've noticed that keeping the notes along with my project (codebase), it's 💯 faster and easier to use, it's as simple as open the notes.md file with your text editor.
 
 Also, using it as `.md` gives me highlight code and easy to export as HTML if I need to read, 💯 better than plain text.
